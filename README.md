@@ -4,7 +4,7 @@
     <h2>Bem vindo ao meu Perfil.</h2>
     <p> Me chamo Leandro Santana. Apaixonado pela tecnologia e a Computação em nuvem. Estou me dedicando à Multicloud e cultura DevOps por acreditar em seu potencial de não só tornar empresas e negócios lucrativos e ecologicamente sustentáveis, mas também de ajudar, através da tecnologia, a trazer de volta mais interação para os relacionamentos com o ambiente que os cercam. 
     </p>
-    <p>Amo de aprender e compartilhar e espero um dia fazer parte do grupo das pessoas que farão esse mundo melhor através da tecnologia. 
+    <p>Amo aprender e compartilhar e espero um dia fazer parte do grupo das pessoas que farão esse mundo melhor através da tecnologia. 
     </p>
 </div>
 <div>
