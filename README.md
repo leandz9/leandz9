@@ -80,12 +80,14 @@
 
 2. ✔️[Oracle Cloud Infrastructure 2023 Certified Architect Associate    ](https://catalog-education.oracle.com/pls/certview/sharebadge?id=0E4E1AE1EFB561B21224C6AD50209CE24233AD6518AE3946EA13C0597C804F02)
 
-3. ✔️[Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=584EA797929553647BB69B48F9F3E94A9F0A67D4B16BF168B2B14F8077620F30)
+3. ✔️[Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=6B4FCD507CB47C757D0787ADCCAF562D57ECDAD68AC384C6E0726E07AC76AE65)
 
-4. ✔️[Oracle Cloud Infrastructure 2023 Certified DevOps Professional](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D50B8730DE349729CCF220FC4BDA9F3B60C521B9F9D9AE9CEDC9B4CDFD440378)
+4. ✔️[Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=584EA797929553647BB69B48F9F3E94A9F0A67D4B16BF168B2B14F8077620F30)
 
-5. ✔️[AWS Certified Cloud Practitioner](https://www.credly.com/badges/f53e1efd-fcbd-4416-8a8a-bbb41400d2e4/linked_in_profile)
+5. ✔️[Oracle Cloud Infrastructure 2023 Certified DevOps Professional](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D50B8730DE349729CCF220FC4BDA9F3B60C521B9F9D9AE9CEDC9B4CDFD440378)
 
-6. ✔️[Full Stack Observability Practitioner](https://credentials.newrelic.com/66d53cd2-0764-4844-841a-8f7d4a9cc501)
+6. ✔️[AWS Certified Cloud Practitioner](https://www.credly.com/badges/f53e1efd-fcbd-4416-8a8a-bbb41400d2e4/linked_in_profile)
+
+7. ✔️[Full Stack Observability Practitioner](https://credentials.newrelic.com/66d53cd2-0764-4844-841a-8f7d4a9cc501)
 
 <br>
