@@ -88,6 +88,8 @@
 
 6. ✔️[AWS Certified Cloud Practitioner](https://www.credly.com/badges/f53e1efd-fcbd-4416-8a8a-bbb41400d2e4/linked_in_profile)
 
-7. ✔️[Full Stack Observability Practitioner](https://credentials.newrelic.com/66d53cd2-0764-4844-841a-8f7d4a9cc501)
+7. ✔️[AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/e0b76af6-69fe-421a-979f-2638a248cfca/public_url)
+
+8. ✔️[Full Stack Observability Practitioner](https://credentials.newrelic.com/66d53cd2-0764-4844-841a-8f7d4a9cc501)
 
 <br>
