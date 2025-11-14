@@ -73,7 +73,7 @@
 
 # 📜Certificados
 
-## 🧠💻Certificações - <img align="center" alt="Leandro-Certificações" height="30" width="40" src="https://oracle.gallerycdn.vsassets.io/extensions/oracle/oci-core/1.0.5/1715101068442/Microsoft.VisualStudio.Services.Icons.Default"> - <img align="center" alt="Leandro-oracle" height="30" width="40" src="https://www.svgrepo.com/show/305696/amazonaws.svg"> - <img align="center" alt="Leandro-newrelic" height="30" width="40" src="https://images.g2crowd.com/uploads/product/image/98581fac068fe296ffc0208dca1b29da/new-relic.png">
+## 🧠💻Certificações - <img align="center" alt="Leandro-Certificações" height="30" width="40" src="https://oracle.gallerycdn.vsassets.io/extensions/oracle/oci-core/1.0.5/1715101068442/Microsoft.VisualStudio.Services.Icons.Default"> - <img align="center" alt="Leandro-oracle" height="30" width="40" src="https://www.svgrepo.com/show/305696/amazonaws.svg"> - <img align="center" alt="Leandro-newrelic" height="30" width="40" src="https://images.g2crowd.com/uploads/product/image/98581fac068fe296ffc0208dca1b29da/new-relic.png"> - <img align="center" alt="Leandro-aviatrix" height="30" width="40" src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c7b738d6-1c90-4911-9d04-d8933135d07c.png?w=80&h=80&fit=max&dpr=3&auto=format&q=50">
 <br>
 
 1. ✔️[Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D6DE181B3EA9D0816FC03D04E386D96627C3A5B6ACFCE75E4B649982ACCFC6C8)
