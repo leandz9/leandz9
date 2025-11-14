@@ -73,7 +73,7 @@
 
 # 📜Certificados
 
-## 🧠💻Certificações - <img align="center" alt="Leandro-Certificações" height="30" width="40" src="https://oracle.gallerycdn.vsassets.io/extensions/oracle/oci-core/1.0.5/1715101068442/Microsoft.VisualStudio.Services.Icons.Default"> - <img align="center" alt="Leandro-oracle" height="30" width="40" src="https://www.svgrepo.com/show/305696/amazonaws.svg"> - <img align="center" alt="Leandro-oracle" height="30" width="40" src="https://images.seeklogo.com/logo-png/44/1/new-relic-logo-png_seeklogo-441431.png">
+## 🧠💻Certificações - <img align="center" alt="Leandro-Certificações" height="30" width="40" src="https://oracle.gallerycdn.vsassets.io/extensions/oracle/oci-core/1.0.5/1715101068442/Microsoft.VisualStudio.Services.Icons.Default"> - <img align="center" alt="Leandro-oracle" height="30" width="40" src="https://www.svgrepo.com/show/305696/amazonaws.svg"> - <img align="center" alt="Leandro-newrelic" height="30" width="40" src="https://images.seeklogo.com/logo-png/44/1/new-relic-logo-png_seeklogo-441431.png">
 <br>
 
 1. ✔️[Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D6DE181B3EA9D0816FC03D04E386D96627C3A5B6ACFCE75E4B649982ACCFC6C8)
