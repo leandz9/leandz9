@@ -92,4 +92,5 @@
 
 8. ✔️[Full Stack Observability Practitioner](https://credentials.newrelic.com/66d53cd2-0764-4844-841a-8f7d4a9cc501)
 
+9. ✔️[Multicloud Network Associate](https://www.credly.com/badges/8a500698-59df-4a16-9c14-a2e79c593cf8/linked_in_profile)
 <br>
